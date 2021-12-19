@@ -33,3 +33,8 @@
 * Create an elbow plot to identify the best number of clusters. Use a for-loop to determine the inertia for each `k` between 1 through 10. Determine, if possible, where the elbow of the plot is, and at which value of `k` it appears.
 
 
+### Analysis Findings
+
+* The cryptocurrencies can be clustered together based on the elbow curve graph. The elbow indicates that the optimal number of clusters is going to be 4. 
+
+
